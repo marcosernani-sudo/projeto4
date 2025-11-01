@@ -1,0 +1,14 @@
+{
+  "name": "algoritmos-av4",
+  "version": "1.0.0",
+  "description": "Trabalho AV4 - funções de algoritmos com testes Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
